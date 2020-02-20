@@ -4,6 +4,5 @@ public class TestTest {
 		System.out.println("Checking In");
 		System.out.println("Hello World");
 		System.out.println("Working on Jenkins");
-		System.out.println("Start from Jenkins");
 	}
 }
